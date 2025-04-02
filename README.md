@@ -6,7 +6,7 @@ Aqui você pode selecionar entre qualquer jogo disponível ou sair da interface 
 
 Esse jogo é um quiz de perguntas e respostas de múltipla escolha. O computador apresenta ao jogador uma pergunta com quatro alternativas e o jogador deve selecionar a opção que considera correta. O sistema então verifica a resposta e informa se está certa ou errada. Se for incorreta, a resposta correta será exibida. O jogo consiste em um total de cinco perguntas fixas, na qual a ordem e respostas permanecem inalteradas entre as rodadas. Ao final, o jogador pode optar por jogar novamente ou voltar ao menu principal.
 
-COBRA NA CAIXA
+# COBRA NA CAIXA
 
 Esse jogo se passa dentro de uma tumba egípcia, onde dois exploradores ficaram presos. No centro da sala, há cinco caixas, onde uma delas contém um botão que abre a porta para a saída, enquanto outra esconde uma cobra mortal. A posição do botão e da cobra muda aleatoriamente a cada rodada.
 
